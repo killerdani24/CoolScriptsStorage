@@ -1,11 +1,13 @@
 # Cool Scripts Storage
 This repository will contain scripts that i made and use on regular basis to help automating mundane tasks.
 # How To Run
-C#: For C# i personally suggest downloading latest <a href="https://www.mono-project.com/" target="_blank">Mono Framework</a> installation, add it to PATH and then execute the script file using the following command:
+#### C#: 
+For C# i personally suggest downloading latest <a href="https://www.mono-project.com/" target="_blank">Mono Framework</a> installation, add it to PATH and then execute the script file using the following command:
 ```powershell
 csi ScriptFile.csx
 ```
-PowerShell: Use 
+##### PowerShell: 
+Use 
 ```powershell 
 powershell ScriptFile.ps1
 ``` 
