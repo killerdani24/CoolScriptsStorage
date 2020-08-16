@@ -1,7 +1,7 @@
 // 2020, Killerdani, https://github.com/killerdani24
 // this Script takes the coordinates of Main Point(Pm) and Main Point Nether Portal(Pmn) and calculates the coordinates of corresponding Nether Portal Point of desired point
 
-/* Extra information if interested, it's basically Pythagorean Theorem
+/* Extra information if interested, it's basically The  Pythagorean Theorem
 	Pm(Xm, Zm)
 	Pmn(Xmn, Zmn)
 	P2(X2, Z2)
